@@ -24,4 +24,4 @@ The code consists of the following steps:
 3. Filter data for China
 4. Extract years and corresponding population values
 5. Convert year columns to numeric values
-6. Create a bar chart visualizing China's population trend# SCT_DS_01
+6. Create a bar chart and histogram visualizing China's population trend# SCT_DS_01
